@@ -17,7 +17,7 @@ This is a classic two-player game where players take turns marking X and O, with
 
 ## 🎯 Live Demo
 
-👉 https://akashbyts.github.io/tic-tac-toe/
+👉 https://akashbyts.github.io/Tic_Tac_Toe/
 
 
 ---
@@ -54,4 +54,5 @@ Tic_Tac_Toe/
 🙌 Author
 🧑‍💻 Akash
 GitHub: https://github.com/Akashbyts
+
 ⭐ If you like this project, give it a star!
